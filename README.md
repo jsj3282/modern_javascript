@@ -1,1 +1,1 @@
-# modern_javascript
+# Modern_JavaScript
